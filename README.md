@@ -97,7 +97,39 @@ In a real-world setting, this project could be maintained by:
 - Monitoring cluster stability and churn distribution over time
 - Updating the Tableau dashboard to reflect new data snapshots
 
----
+## Credits
+
+- The project is based on the **Code Institute Data Analytics & AI Skills Bootcamp**
+  masterclasses and learning materials, which guided the overall analytical
+  structure, use of Python libraries, and clustering methodology.
+
+- The **Bank Customer Churn dataset** was used for educational and analytical
+  purposes. The dataset contains anonymised customer data and does not include
+  any personally identifiable information (PII).
+
+- **Python** was used for data cleaning, exploratory data analysis, clustering,
+  and statistical summaries, with key support from the following libraries:
+  - Pandas and NumPy for data manipulation
+  - Seaborn and Matplotlib for static visualisations
+  - Plotly for interactive visualisation
+  - Scikit-learn for scaling, PCA, and clustering
+
+- **Tableau** was used to design the interactive dashboard aimed at
+  non-technical stakeholders, enabling exploration of transaction behaviour,
+  spending changes, and churn patterns.
+
+- An **AI assistant (ChatGPT)** was used during the development process to:
+  - support debugging and error resolution,
+  - assist with analytical reasoning and narrative structure,
+  - help refine markdown explanations and cluster naming.
+ 
+- **Git and GitHub** were used for version control, project organisation,
+  and documentation of the development process.
+
+- **Jupyter Notebook** was used as the primary environment for analysis,
+  combining code, visual outputs, and explanatory markdown cells to
+  communicate insights clearly.
+
 
 ## Limitations and Future Work
 - The analysis is based on a static snapshot of customer behaviour.
