@@ -16,7 +16,9 @@ and translate analytical insights into actionable business recommendations.
 - Customer retention and CRM teams
 - Business stakeholders with limited technical background
 
----
+## The dataset
+The dataset is available at Kaggle and can be accessed at the following link:  
+[Credit Card Customers](https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers)
 
 ## Data Description
 The dataset contains anonymised customer-level information, including:
@@ -59,7 +61,22 @@ The Tableau dashboard provides an interactive overview of churn-related behaviou
 patterns, including transaction changes, spending dynamics, and utilisation metrics.
 
 The dashboard is designed for non-technical stakeholders and complements
-the Python analysis by presenting aggregated insights.
+the Python analysis by presenting aggregated insights. The interactive Tableau dashboard is available here:  
+[Customer Churn Tableau Dashboard](dashboard/Bank_churn.twbx)
+### Dashboard Visualisations Overview
+
+- **Transaction Amount Change vs Attrition**  
+This visualisation shows that customers who churn tend to exhibit lower or declining transaction amount growth compared to retained customers, indicating reduced spending engagement prior to attrition.
+
+- **Transaction Count Change Distribution**  
+The distribution highlights that churned customers are more concentrated in lower transaction frequency change ranges, suggesting reduced card usage intensity over time.
+
+- **Transaction Count vs Transaction Amount**  
+This scatter plot demonstrates a stronger and more stable positive relationship between transaction volume and transaction value for retained customers, reflecting consistent spending behaviour.
+
+- **Utilisation Ratio Distribution**  
+Distributional analysis reveals noticeable differences in utilisation behaviour between churned and retained customers. These patterns are not strongly reflected in correlation metrics due to the categorical nature of churn and the non-linear relationship between utilisation and attrition.
+
 
 ---
 
@@ -118,11 +135,6 @@ In a real-world setting, this project could be maintained by:
   non-technical stakeholders, enabling exploration of transaction behaviour,
   spending changes, and churn patterns.
 
-- An **AI assistant (ChatGPT)** was used during the development process to:
-  - support debugging and error resolution,
-  - assist with analytical reasoning and narrative structure,
-  - help refine markdown explanations and cluster naming.
- 
 - **Git and GitHub** were used for version control, project organisation,
   and documentation of the development process.
 
