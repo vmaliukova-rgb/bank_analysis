@@ -122,11 +122,6 @@ In a real-world setting, this project could be maintained by:
   non-technical stakeholders, enabling exploration of transaction behaviour,
   spending changes, and churn patterns.
 
-- An **AI assistant (ChatGPT)** was used during the development process to:
-  - support debugging and error resolution,
-  - assist with analytical reasoning and narrative structure,
-  - help refine markdown explanations and cluster naming.
- 
 - **Git and GitHub** were used for version control, project organisation,
   and documentation of the development process.
 
