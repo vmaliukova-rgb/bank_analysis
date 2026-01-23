@@ -61,7 +61,9 @@ The Tableau dashboard provides an interactive overview of churn-related behaviou
 patterns, including transaction changes, spending dynamics, and utilisation metrics.
 
 The dashboard is designed for non-technical stakeholders and complements
-the Python analysis by presenting aggregated insights.
+the Python analysis by presenting aggregated insights. The interactive Tableau dashboard is available here:  
+[Customer Churn Tableau Dashboard](dashboard/Bank_churn.twbx)
+
 
 ---
 
