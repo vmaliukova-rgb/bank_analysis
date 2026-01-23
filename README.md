@@ -102,7 +102,7 @@ An AI assistant was used during the project to:
 - Assist with analytical reasoning and narrative structure
 - Help refine cluster naming and stakeholder-oriented explanations
 
-The AI assistant did not generate final analytical results or automate decision-making.
+
 
 ---
 
