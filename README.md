@@ -63,6 +63,19 @@ patterns, including transaction changes, spending dynamics, and utilisation metr
 The dashboard is designed for non-technical stakeholders and complements
 the Python analysis by presenting aggregated insights. The interactive Tableau dashboard is available here:  
 [Customer Churn Tableau Dashboard](dashboard/Bank_churn.twbx)
+### Dashboard Visualisations Overview
+
+- **Transaction Amount Change vs Attrition**  
+This visualisation shows that customers who churn tend to exhibit lower or declining transaction amount growth compared to retained customers, indicating reduced spending engagement prior to attrition.
+
+- **Transaction Count Change Distribution**  
+The distribution highlights that churned customers are more concentrated in lower transaction frequency change ranges, suggesting reduced card usage intensity over time.
+
+- **Transaction Count vs Transaction Amount**  
+This scatter plot demonstrates a stronger and more stable positive relationship between transaction volume and transaction value for retained customers, reflecting consistent spending behaviour.
+
+- **Utilisation Ratio Distribution**  
+Distributional analysis reveals noticeable differences in utilisation behaviour between churned and retained customers. These patterns are not strongly reflected in correlation metrics due to the categorical nature of churn and the non-linear relationship between utilisation and attrition.
 
 
 ---
