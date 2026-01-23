@@ -17,7 +17,9 @@ and translate analytical insights into actionable business recommendations.
 - Business stakeholders with limited technical background
 
 ## The dataset
-The dataset was originated from Kaggle and available through the link https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers 
+The dataset was sourced from Kaggle and can be accessed at the following link:  
+[Credit Card Customers](https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers)
+
 ## Data Description
 The dataset contains anonymised customer-level information, including:
 - Transaction amounts and frequency
