@@ -83,7 +83,6 @@ Distributional analysis reveals noticeable differences in utilisation behaviour 
 ## Key Insights
 - Declining transaction activity is strongly associated with churn.
 - Customers with low engagement and weak spending growth exhibit the highest churn risk.
-- Behavioural patterns are more informative than demographic attributes for churn analysis.
 - Clustering enables targeted retention strategies based on customer behaviour.
 
 ---
